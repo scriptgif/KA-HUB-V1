@@ -403,3 +403,4 @@ end)
 -- Adicionando o botão na aba Misc
 -- Procure a sua aba MiscTab criada anteriormente e adicione:
 CreateToggle(MiscTab, "Anti-Admin (Auto Kick)", "AntiAdmin")
+StartKAHUB()
